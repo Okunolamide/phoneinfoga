@@ -1,3 +1,4 @@
+<h1 align="left">OKUNOLAMIDE<img src="I.png" height="25" width="25"></h1>
 <p align="center">
   <img src="./docs/images/banner.png" width=500  alt="project logo"/>
 </p>
